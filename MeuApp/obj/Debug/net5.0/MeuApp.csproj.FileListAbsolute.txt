@@ -1,0 +1,16 @@
+C:\Users\139544\Documents\Treinamentos\balta-io\MeuApp\bin\Debug\net5.0\MeuApp.exe
+C:\Users\139544\Documents\Treinamentos\balta-io\MeuApp\bin\Debug\net5.0\MeuApp.deps.json
+C:\Users\139544\Documents\Treinamentos\balta-io\MeuApp\bin\Debug\net5.0\MeuApp.runtimeconfig.json
+C:\Users\139544\Documents\Treinamentos\balta-io\MeuApp\bin\Debug\net5.0\MeuApp.runtimeconfig.dev.json
+C:\Users\139544\Documents\Treinamentos\balta-io\MeuApp\bin\Debug\net5.0\MeuApp.dll
+C:\Users\139544\Documents\Treinamentos\balta-io\MeuApp\bin\Debug\net5.0\ref\MeuApp.dll
+C:\Users\139544\Documents\Treinamentos\balta-io\MeuApp\bin\Debug\net5.0\MeuApp.pdb
+C:\Users\139544\Documents\Treinamentos\balta-io\MeuApp\obj\Debug\net5.0\MeuApp.csprojAssemblyReference.cache
+C:\Users\139544\Documents\Treinamentos\balta-io\MeuApp\obj\Debug\net5.0\MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\139544\Documents\Treinamentos\balta-io\MeuApp\obj\Debug\net5.0\MeuApp.AssemblyInfoInputs.cache
+C:\Users\139544\Documents\Treinamentos\balta-io\MeuApp\obj\Debug\net5.0\MeuApp.AssemblyInfo.cs
+C:\Users\139544\Documents\Treinamentos\balta-io\MeuApp\obj\Debug\net5.0\MeuApp.csproj.CoreCompileInputs.cache
+C:\Users\139544\Documents\Treinamentos\balta-io\MeuApp\obj\Debug\net5.0\MeuApp.dll
+C:\Users\139544\Documents\Treinamentos\balta-io\MeuApp\obj\Debug\net5.0\ref\MeuApp.dll
+C:\Users\139544\Documents\Treinamentos\balta-io\MeuApp\obj\Debug\net5.0\MeuApp.pdb
+C:\Users\139544\Documents\Treinamentos\balta-io\MeuApp\obj\Debug\net5.0\MeuApp.genruntimeconfig.cache

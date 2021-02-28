@@ -1,0 +1,16 @@
+C:\Users\139544\Documents\Treinamentos\balta-io\Stopwatch\bin\Debug\net5.0\Stopwatch.exe
+C:\Users\139544\Documents\Treinamentos\balta-io\Stopwatch\bin\Debug\net5.0\Stopwatch.deps.json
+C:\Users\139544\Documents\Treinamentos\balta-io\Stopwatch\bin\Debug\net5.0\Stopwatch.runtimeconfig.json
+C:\Users\139544\Documents\Treinamentos\balta-io\Stopwatch\bin\Debug\net5.0\Stopwatch.runtimeconfig.dev.json
+C:\Users\139544\Documents\Treinamentos\balta-io\Stopwatch\bin\Debug\net5.0\Stopwatch.dll
+C:\Users\139544\Documents\Treinamentos\balta-io\Stopwatch\bin\Debug\net5.0\ref\Stopwatch.dll
+C:\Users\139544\Documents\Treinamentos\balta-io\Stopwatch\bin\Debug\net5.0\Stopwatch.pdb
+C:\Users\139544\Documents\Treinamentos\balta-io\Stopwatch\obj\Debug\net5.0\Stopwatch.csprojAssemblyReference.cache
+C:\Users\139544\Documents\Treinamentos\balta-io\Stopwatch\obj\Debug\net5.0\Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\139544\Documents\Treinamentos\balta-io\Stopwatch\obj\Debug\net5.0\Stopwatch.AssemblyInfoInputs.cache
+C:\Users\139544\Documents\Treinamentos\balta-io\Stopwatch\obj\Debug\net5.0\Stopwatch.AssemblyInfo.cs
+C:\Users\139544\Documents\Treinamentos\balta-io\Stopwatch\obj\Debug\net5.0\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\139544\Documents\Treinamentos\balta-io\Stopwatch\obj\Debug\net5.0\Stopwatch.dll
+C:\Users\139544\Documents\Treinamentos\balta-io\Stopwatch\obj\Debug\net5.0\ref\Stopwatch.dll
+C:\Users\139544\Documents\Treinamentos\balta-io\Stopwatch\obj\Debug\net5.0\Stopwatch.pdb
+C:\Users\139544\Documents\Treinamentos\balta-io\Stopwatch\obj\Debug\net5.0\Stopwatch.genruntimeconfig.cache
